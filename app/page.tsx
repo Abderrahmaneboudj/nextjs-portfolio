@@ -31,7 +31,7 @@ export default function HomePage() {
         </div>
 
         <div>
-          <h1 style={{ marginBottom: 8 }}>Hello — I am Your abderrahmane</h1>
+          <h1 style={{ marginBottom: 8 }}>Hello — I am abderrahmane</h1>
           <p style={{ marginBottom: 12 }}>
             I am a frontend developer who builds accessible, responsive websites
             using Next.js and TypeScript.
